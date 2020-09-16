@@ -10,3 +10,8 @@ it gives u an complete audit of some software and hardware audit
 it shows ur net speed also
 i am even adding the stuff i used to convert it i can be used in any windows s until 10
 enjoy and have fun
+**********************************************************************************************************************
+**********************************************************************************************************************
+**NOTE- U WILL GET A ALERT MESSAGE U HAVE TO CLICK ON MORE INFO AND CLICK RUN ANYWAY EVEN FOR THE EXE(PASSINFO2.EXE)**
+**********************************************************************************************************************
+**********************************************************************************************************************
