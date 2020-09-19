@@ -9,6 +9,7 @@
  it gives u an complete audit of some software and hardware audit.
  it shows ur net speed also.
  i am even adding the stuff i used to convert it i can be used in any windows s until 10.
+ passinfo-v.13 even converts the chosen option into a txt file
  enjoy and have fun.
  **********************************************************************************************************************
  **********************************************************************************************************************
