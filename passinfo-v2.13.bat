@@ -6,69 +6,7 @@ echo lets start the process.
 echo ============================================================================================================================================================
 echo /////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 echo ============================================================================================================================================================
-:mou
-set /p pass="enter ur pass : " 
-if %pass% == morphouslord1312 goto menu    
-if %pass% == MORPHOUSLORD1312 goto menu   
-IF %PASS% == a53a888247a4f7dee5ccd8d14f14f008 GOTO menu
-if %pass% == 55da2ee52a1e6f14705f0b2119f2ee3f goto menu   
-if %pass% == 8f7cc33211c9f0b0f347eb26472a800ecc2b4bbd goto menu
-if %pass% == f2b41993ddaeab8d2fe7fdfed3105fc37d66823b35ddede343a56e46d6de5aed243deedd12cd6f6b5138b123a3c51188 goto menu
-if %pass% == fb6468da1ce1d30f0c2f3b634898cb2b3ebbc1f75e943387dbd6c494 goto menu
-if %pass% == 25bb04d45f16da4aec25348476b11b8019008315774f08cb174c68fbf7b7f708 goto menu
-if %pass% == c4b43afdf531413115f2df9b82527a88c1ddccdfe8983a62a34972a5ee26cf07340940110761460471d1177e9ad010e1e7c745d3364aec3cea88119884609244 goto menu
-if %pass% == 2158a66cebeca5a1da941d75fc23cfaff28e3629dd4fe88335647c0a287d33b11c7b2df33bd4297646a9839ff419f385505de3097ca8f47036aa5b31c45f97d9 goto menu
-if %pass% == 3494b53df3699d37a009de572d919ee4d4fe0b398abc839f8da99f2c3c3d288d goto menu
-if %pass% == b9206d57454ff278bdc73f1ed0b90cc27765c9a0d698c09029f7a30331956a1c0ad0582b7ce455460b1817645466c2ed4002389985c3816f71ba1690ecc667c9 goto menu
-if %pass% == 8847a999ef461bb6bd43abb488bedd929104f5a3f00960da7f351675 goto menu
-if %pass% == 26f947a776310a4dcab02c73efc5dd09eccdcc96c6203017a91cbdb06f4468421395bea82d1500b9487f2fc935ecbb30 goto menu
-if %pass% == c9085e176b548d8aba530040e0186b4750e3b57aa503e6e4cc8151ddbfa09567312f5036bbe8b638de9734c8e36d44bf88ffbbdaab1fe3e6771a8519d9d45e3e07e0e28d goto menu
-if %pass% == 557492e238712e78de8a3c8a999b061ad2b916864b822cb7346f9b8b48a6593128758b64a841c674e69410e7d5a66969a931d6d671c42ccdde6afee97cc86beee32a1ad938 goto menu
-IF %PASS% == 55da2ee52a1e6f14705f0b2119f2ee3f GOTO menu
-IF %PASS% == 84d93393e4444d0e8075384141d2caf4c0e6c359 GOTO menu
-IF %PASS% == 53e15471fdbd8536a17dbb26b48704ed9eeee16e323c5aec4c37d1302a98b36f GOTO menu
-IF %PASS% == c7b0f2b9435efd89da58507dd802c3917b6236a2b7698015b02724fdf2549007b2dcb41708fbd89f479993248e9c8947 GOTO menu
-IF %PASS% == 4539e97fdc53281a51e3a97dae074cf1a835a069133f43ede60f658f GOTO menu
-IF %PASS% == cac04c37b6375426f3f85aea7391ff22e8eb6ac863825b0e1bc85e6fcf767b06 GOTO menu
-IF %PASS% == faeac3e6e62aae1a7c8b17efbdbb96e407f9eae0d403313eb5ac2912332ce2cc8ffc66a6586cf7c1ec1cb3f0d930518403c431798338ef9a740abc6d6686d73a GOTO menu
-IF %PASS% == bdb52bbab3a0c849285c985eee8bc2bbcd72d1e5207892ae2bd72c0fae3021a0ce01d4c1ac74caa56b48c5e0a246a9a34a8c28a4868c0456b23607756cbe70a6 GOTO menu
-IF %PASS% == 4ea22b48802075c75a13a83b5f9c5fba65bbd6b17de943bf314b67533a29afff GOTO menu
-IF %PASS% == 5affc8674e17446f3b799ec0a1b8e84cdeed9eaafb8ecefd046a8f9f68928352653a117d52e25a9aadb04ea463e3ac530e487cfe3a08a3207b426d4e474f3f40 GOTO menu
-IF %PASS% == 8d13c62995ca418c6ab9da12eba0b3559c7e23e4a5641fd7cd9e1659 GOTO menu
-IF %PASS% == f799c3b275ed61f39efcac17f42dd75947a596fb2264940e39a662ec91afb28ab8a58be9a47122353ad143fed42cdd97 GOTO menu
-IF %PASS% == de739936d2e6b69e8cc654ca01b41320d5cd7c82db583c5a9d43857a8cffd6c33f04b64dae72e9846a6a4bc53026c367fe2766103c5aeff0b216f2365d312c39c2b02f7b GOTO menu
-IF %PASS% == 7449c944c23deebeb20a919b2675b2ef91c8e2c6d7c0fe7e0f65ec084b61503ced8e3400d188c860754d1ef0913fda2862ffe402691c0751e7ea1885adf390b4ecb697d5d1 GOTO MENU
-if not %pass% == morphouslord1312 goto NOCON
-if not %pass% == MORPHOUSLORD1312 GOTO NOCON      
-IF not %PASS% == a53a888247a4f7dee5ccd8d14f14f008 GOTO NOCON
-if not %pass% == 55da2ee52a1e6f14705f0b2119f2ee3f goto NOCON    
-if not %pass% == 8f7cc33211c9f0b0f347eb26472a800ecc2b4bbd goto NOCON
-if not %pass% == f2b41993ddaeab8d2fe7fdfed3105fc37d66823b35ddede343a56e46d6de5aed243deedd12cd6f6b5138b123a3c51188 goto NOCON
-if not %pass% == fb6468da1ce1d30f0c2f3b634898cb2b3ebbc1f75e943387dbd6c494 goto NOCON
-if not %pass% == 25bb04d45f16da4aec25348476b11b8019008315774f08cb174c68fbf7b7f708 goto NOCON
-if not %pass% == c4b43afdf531413115f2df9b82527a88c1ddccdfe8983a62a34972a5ee26cf07340940110761460471d1177e9ad010e1e7c745d3364aec3cea88119884609244 goto NOCON
-if not %pass% == 2158a66cebeca5a1da941d75fc23cfaff28e3629dd4fe88335647c0a287d33b11c7b2df33bd4297646a9839ff419f385505de3097ca8f47036aa5b31c45f97d9 goto NOCON
-if not %pass% == 3494b53df3699d37a009de572d919ee4d4fe0b398abc839f8da99f2c3c3d288d goto NOCON
-if not %pass% == b9206d57454ff278bdc73f1ed0b90cc27765c9a0d698c09029f7a30331956a1c0ad0582b7ce455460b1817645466c2ed4002389985c3816f71ba1690ecc667c9 goto NOCON
-if not %pass% == 8847a999ef461bb6bd43abb488bedd929104f5a3f00960da7f351675 goto NOCON
-if not %pass% == 26f947a776310a4dcab02c73efc5dd09eccdcc96c6203017a91cbdb06f4468421395bea82d1500b9487f2fc935ecbb30 goto NOCON
-if not %pass% == c9085e176b548d8aba530040e0186b4750e3b57aa503e6e4cc8151ddbfa09567312f5036bbe8b638de9734c8e36d44bf88ffbbdaab1fe3e6771a8519d9d45e3e07e0e28d goto NOCON
-if not %pass% == 557492e238712e78de8a3c8a999b061ad2b916864b822cb7346f9b8b48a6593128758b64a841c674e69410e7d5a66969a931d6d671c42ccdde6afee97cc86beee32a1ad938 goto NOCON    
-IF NOT %PASS% == 55da2ee52a1e6f14705f0b2119f2ee3f GOTO NOCON
-IF NOT %PASS% == 84d93393e4444d0e8075384141d2caf4c0e6c359 GOTO NOCON
-IF NOT %PASS% == 53e15471fdbd8536a17dbb26b48704ed9eeee16e323c5aec4c37d1302a98b36f GOTO NOCON
-IF NOT %PASS% == c7b0f2b9435efd89da58507dd802c3917b6236a2b7698015b02724fdf2549007b2dcb41708fbd89f479993248e9c8947 GOTO NOCON
-IF NOT %PASS% == 4539e97fdc53281a51e3a97dae074cf1a835a069133f43ede60f658f GOTO NOCON
-IF NOT %PASS% == cac04c37b6375426f3f85aea7391ff22e8eb6ac863825b0e1bc85e6fcf767b06 GOTO NOCON
-IF NOT %PASS% == faeac3e6e62aae1a7c8b17efbdbb96e407f9eae0d403313eb5ac2912332ce2cc8ffc66a6586cf7c1ec1cb3f0d930518403c431798338ef9a740abc6d6686d73a GOTO NOCON
-IF NOT %PASS% == bdb52bbab3a0c849285c985eee8bc2bbcd72d1e5207892ae2bd72c0fae3021a0ce01d4c1ac74caa56b48c5e0a246a9a34a8c28a4868c0456b23607756cbe70a6 GOTO NOCON
-IF NOT %PASS% == 4ea22b48802075c75a13a83b5f9c5fba65bbd6b17de943bf314b67533a29afff GOTO NOCON
-IF NOT %PASS% == 5affc8674e17446f3b799ec0a1b8e84cdeed9eaafb8ecefd046a8f9f68928352653a117d52e25a9aadb04ea463e3ac530e487cfe3a08a3207b426d4e474f3f40 GOTO NOCON
-IF NOT %PASS% == 8d13c62995ca418c6ab9da12eba0b3559c7e23e4a5641fd7cd9e1659 GOTO NOCON
-IF NOT %PASS% == f799c3b275ed61f39efcac17f42dd75947a596fb2264940e39a662ec91afb28ab8a58be9a47122353ad143fed42cdd97 GOTO NOCON
-IF NOT %PASS% == de739936d2e6b69e8cc654ca01b41320d5cd7c82db583c5a9d43857a8cffd6c33f04b64dae72e9846a6a4bc53026c367fe2766103c5aeff0b216f2365d312c39c2b02f7b GOTO NOCON
-IF NOT %PASS% == 7449c944c23deebeb20a919b2675b2ef91c8e2c6d7c0fe7e0f65ec084b61503ced8e3400d188c860754d1ef0913fda2862ffe402691c0751e7ea1885adf390b4ecb697d5d1 GOTO NOCON                                                                                            
-echo ============================================================================================================================================================
+
 
 
 :menu
