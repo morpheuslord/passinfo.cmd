@@ -91,7 +91,8 @@ echo  "                                                                         
 echo  "                                                                          9) system transfer                                                             "
 echo  "                                                                          10) wifi secured                                                               "
 echo  "                                                                          11) ipconfig caseid                                                            "
-echo  "                                                                          12) help                                                                       "
+echo  "                                                                          12) individual wifi password                                                   "
+echo  "                                                                          13) help                                                                       "
 echo  """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" 
 set /p ans="enter nember : "
 
@@ -127,9 +128,23 @@ if %ans% == 10 goto j
 
 if %ans% == 11 goto k
 
-if %ans% == 12 goto i
+if %ans% == 12 goto new
 
+if %ans% == 13 goto i
 
+:new
+COLOR 5
+SET file0="%~dp0%a%.txt"
+echo ------------------------------------------------------>>%file0%
+netsh wlan show profile
+echo ------------------------------------------------------
+set /p add="enter selection : "
+echo ------------------------------------------------------
+netsh wlan show profile name = %add% key = clear))%file0%
+echo ------------------------------------------------------>>%file0%
+pause
+cls
+goto menu 
 
 :a
 COLOR 5
