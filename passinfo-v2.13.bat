@@ -261,29 +261,27 @@ goto menu
 :i
 COLOR 2
 SET file1="%~dp0%i%.txt"
-echo **************************************************************************************************************>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo * for netstat and  nbtstat u need to type ctrl c                                                            **>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo *netstat v2 shows eternet stats and owning process ID                                                       **>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo * system info exports all data info of system                                                               **>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo * wifi export exports xml files containing all the wifi password secured in ur system                       **>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo * option 10 shows allthe secured wifi                                                                       **>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo * system transfer transfer audit and a txt document to folder                                               **>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo * trecent does a normal wifi check and nework check u can stop it by quiting the programes or just do ctrl c**>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo * ping does a normal ping to see the time duration taken the network                                        **>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo * Displays all the IPv6 DHCP class IDs allowed for adapter and Modifies the dhcp class id incase option 11  **>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo * u can close the program if u end up in errors                                                             **>>%file1%
-echo *-----------------------------------------------------------------------------------------------------------**>>%file1%
-echo **************************************************************************************************************>>%file1%
+echo [+]----------------------------------------------------------------------------------------------------------->>%file1%
+echo [+] for netstat and  nbtstat u need to type ctrl c                                                            >>%file1%
+echo [+]----------------------------------------------------------------------------------------------------------->>%file1%
+echo [+]netstat v2 shows eternet stats and owning process ID                                                       >>%file1%
+echo [+]----------------------------------------------------------------------------------------------------------->>%file1%
+echo [+] system info exports all data info of system                                                               >>%file1%
+echo [+]----------------------------------------------------------------------------------------------------------->>%file1%
+echo [+] wifi export exports xml files containing all the wifi password secured in ur system                       >>%file1%
+echo [+]----------------------------------------------------------------------------------------------------------->>%file1%
+echo [+] option 10 shows allthe secured wifi                                                                       >>%file1%
+echo [+]----------------------------------------------------------------------------------------------------------->>%file1%
+echo [+] system transfer transfer audit and a txt document to folder                                               >>%file1%
+echo [+]----------------------------------------------------------------------------------------------------------->>%file1%
+echo [+] trecent does a normal wifi check and nework check u can stop it by quiting the programes or just do ctrl c>>%file1%
+echo [+]----------------------------------------------------------------------------------------------------------->>%file1%
+echo [+] ping does a normal ping to see the time duration taken the network                                        >>%file1%
+echo [+]----------------------------------------------------------------------------------------------------------->>%file1%
+echo [+] Displays all the IPv6 DHCP class IDs allowed for adapter and Modifies the dhcp class id incase option 11  >>%file1%
+echo [+]----------------------------------------------------------------------------------------------------------->>%file1%
+echo [+] u can close the program if u end up in errors                                                             >>%file1%
+echo *----------------------------------------------------------------------------------------------------------->>%file1%
 echo **************************************************************************************************************
 echo *-----------------------------------------------------------------------------------------------------------**
 echo * for netstat and  nbtstat u need to type ctrl c                                                            **
