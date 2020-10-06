@@ -136,27 +136,27 @@ if %ans% == 13 goto shutdown
 if %ans% == 14 goto i
 :new
 COLOR 5
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
@@ -175,27 +175,27 @@ goto menu
 
 :a
 COLOR 5
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
@@ -211,27 +211,27 @@ goto menu
 
 :b
 COLOR 4
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
@@ -247,27 +247,27 @@ goto menu
 
 :c
 COLOR 3
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
@@ -287,27 +287,27 @@ goto menu
 
 :d
 COLOR 6
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
@@ -323,27 +323,27 @@ goto menu
 
 :e
 COLOR 9
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
@@ -359,27 +359,27 @@ goto menu
 
 :f
 COLOR 10
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
@@ -395,27 +395,27 @@ goto menu
 
 :g
 COLOR 02
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
@@ -431,27 +431,27 @@ goto menu
 
 :h
 COLOR 22
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
@@ -467,27 +467,27 @@ goto menu
 
 :j 
 color 6
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
@@ -503,27 +503,27 @@ goto menu
 
 :k
 color 8
-echo Loading[.      ]5%
+echo Loading[...      ]5%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[..     ]10%
+echo Loading[......     ]10%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...    ]25%
+echo Loading[.........    ]25%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[....   ]50%
+echo Loading[............   ]50%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[.....  ]70%
+echo Loading[...............  ]70%
 ping localhost -n 2 >nul
 cls
 cls 
-echo Loading[...... ]100%
+echo Loading[.................. ]100%
 ping localhost -n 2 >nul
 cls
 cls 
