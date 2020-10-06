@@ -1,6 +1,6 @@
 # passinfo.bat
 #good tool for a low level asalysis.
- contains some cool batch file stuff.
+[+]contains some cool batch file stuff.
  it includes an wifi password import(xmlfile).
  it has an ping option. 
  the color changes can be changed if u feel it is stupid. 
