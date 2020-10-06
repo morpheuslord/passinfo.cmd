@@ -136,6 +136,31 @@ if %ans% == 13 goto shutdown
 if %ans% == 14 goto i
 :new
 COLOR 5
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="custom wifi.txt"
 echo ------------------------------------------------------>>%file0%
 netsh wlan show profile
@@ -150,6 +175,31 @@ goto menu
 
 :a
 COLOR 5
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="netstat-1.txt"
 echo ------------------------------------------------------>>%file0%
 netstat -a -s -q -r -y>>%file0%
@@ -161,6 +211,31 @@ goto menu
 
 :b
 COLOR 4
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="netstat-2.txt"
 echo ------------------------------------------------------>>%file0%
 netstat -n -e -o -f -x>>%file0%
@@ -172,6 +247,31 @@ goto menu
 
 :c
 COLOR 3
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="ipconfig/all.txt"
 echo ------------------------------------------------------>>%file0%
 ipconfig /all>>%file0%
@@ -187,6 +287,31 @@ goto menu
 
 :d
 COLOR 6
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="ipconfig/displaydns.txt"
 echo ------------------------------------------------------>>%file0%
 ipconfig/displaydns>>%file0%
@@ -198,6 +323,31 @@ goto menu
 
 :e
 COLOR 9
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="wifi export.txt"
 echo ------------------------------------------------------>>%file0%
 netsh wlan export profile folder=. key=clear>>%file0%
@@ -209,6 +359,31 @@ goto menu
 
 :f
 COLOR 10
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="systeminfo.txt"
 echo ------------------------------------------------------>>%file0%
 systeminfo>>%file0%
@@ -220,6 +395,31 @@ goto menu
 
 :g
 COLOR 02
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="tracert.txt"
 echo ------------------------------------------------------>>%file0%
 tracert www.google.com>>%file0%
@@ -231,6 +431,31 @@ goto menu
 
 :h
 COLOR 22
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="ping.txt"
 echo ------------------------------------------------------>>%file0%
 ping www.google.com -l 100 -n 10 -a>>%file0%
@@ -241,6 +466,32 @@ cls
 goto menu
 
 :j 
+color 6
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="wifi.txt"
 echo ------------------------------------------------------>>%file0%
 netsh wlan show profile>>%file0%
@@ -251,6 +502,32 @@ cls
 goto menu
 
 :k
+color 8
+echo Loading[.      ]5%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[..     ]10%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...    ]25%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[....   ]50%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.....  ]70%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[...... ]100%
+ping localhost -n 2 >nul
+cls
+cls 
+echo Loading[.......]
 SET file0="ipconfig.txt"
 echo ------------------------------------------------------>>%file0%
 ipconfig /showclassid>>%file0%
