@@ -1,4 +1,4 @@
-# passinfo.bat
+# passinfo.cmd
 #good tool for a low level asalysis.
  contains some cool batch file stuff.
  it includes an wifi password import(xmlfile).
