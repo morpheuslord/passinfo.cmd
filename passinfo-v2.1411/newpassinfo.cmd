@@ -31,7 +31,7 @@ echo ===========================================================================
 echo ============================================================================================================================================================
 :main
 color 0a
-cmdmenusel f870 "netstat " "netstat v2 " "ipconfig/all" "ipconfig/displaydns " "wifi export" "system info " "tracert " "ping  " "system transfer" "wifi secured " "ipconfig caseid " "individual wifi password " "shutdown " "help "
+cmdmenusel ff6644 "netstat " "netstat v2 " "ipconfig/all" "ipconfig/displaydns " "wifi export" "system info " "tracert " "ping  " "system transfer" "wifi secured " "ipconfig caseid " "individual wifi password " "shutdown " "help "
 if %ERRORLEVEL% == 1 goto a
 if %ERRORLEVEL% == 2 goto b
 if %ERRORLEVEL% == 3 goto c
