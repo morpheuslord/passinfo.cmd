@@ -10,7 +10,7 @@
  it shows ur net speed also.
  i have added a loading function which u can update whith what ever u want or if u dont want u can remove it .
  i am even adding the stuff i used to convert it i can be used in any windows s until 10.
- i have an selective menu option in the passinfo-v-2.411 u can choose that if u like convinence
+ i have an selective menu option in the passinfo-v-2.411 u can choose that if u like convinence.
  Not all the codes are copied 90% of codes are mine and I have borrowed some codes to make it more useful 
  I have modified the BRUTEFORCE.cmd file I have added darkc0de.txt passlist and u can easily access it using teams.exe file in the setup folder thank u.
  Setup.Zip has my passinfo file with an brute force attacker developed by teambat 
