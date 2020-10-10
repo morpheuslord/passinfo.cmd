@@ -23,6 +23,7 @@
    THANKS TO- 
    THE BATTEAM :BRUTEFORCE.CMD  PROGRAM  
                 LINK FOR THERE YOUTUBE VIDEO REGARDING THIS PROGRAM https://youtu.be/80lYo4Hhmk4
+   TECHNICALuserX(TUX):THE CREATOR OF THIS PROGRAM AND THE LINK FOR HIS CHANNEL https://youtu.be/l1X9leGySBU
    MY TUTOR.  :youtube. Com.                                                                              
    really appreciate ur help in making of this repository.                                                
  **********************************************************************************************************************
