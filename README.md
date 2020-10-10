@@ -20,8 +20,10 @@
  **********************************************************************************************************************
  **NOTE- U WILL GET A ALERT MESSAGE U HAVE TO CLICK ON MORE INFO AND CLICK RUN ANYWAY EVEN FOR THE EXE(PASSINFO2.EXE)**
    NOTE- passinfo-v-2.1411 is desigred in the minimized form please do not maximise the window                       
-   THANKS TO- THE TEAMBAT :BRUTEFORCE.CMD  PROGRAM                                                                               
-              MY TUTOR.  :youtube. Com.                                                                              
-              really appreciate ur help in making of this repository.                                                
+   THANKS TO- 
+   THE BATTEAM :BRUTEFORCE.CMD  PROGRAM  
+                LINK FOR THERE YOUTUBE VIDEO REGARDING THIS PROGRAM https://youtu.be/80lYo4Hhmk4
+   MY TUTOR.  :youtube. Com.                                                                              
+   really appreciate ur help in making of this repository.                                                
  **********************************************************************************************************************
  **********************************************************************************************************************
