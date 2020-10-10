@@ -17,9 +17,9 @@
  **********************************************************************************************************************
  **********************************************************************************************************************
  **NOTE- U WILL GET A ALERT MESSAGE U HAVE TO CLICK ON MORE INFO AND CLICK RUN ANYWAY EVEN FOR THE EXE(PASSINFO2.EXE)**
- **NOTE- passinfo-v-2.1411 is desigred in the minimized form please do not maximise the window                       **
- **THANKS TO- BRUTEFORCE :THE TEAMBAT                                                                                **
- **           MY TUTOR.  :youtube. Com.                                                                              **
- **           really appreciate ur help in making of this repository.                                                **
+   NOTE- passinfo-v-2.1411 is desigred in the minimized form please do not maximise the window                       
+   THANKS TO- BRUTEFORCE :THE TEAMBAT                                                                                
+              MY TUTOR.  :youtube. Com.                                                                              
+              really appreciate ur help in making of this repository.                                                
  **********************************************************************************************************************
  **********************************************************************************************************************
