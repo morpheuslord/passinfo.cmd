@@ -16,15 +16,15 @@
  Setup.Zip has my passinfo file with an brute force attacker developed by teambat 
  passinfo-v2.14 even converts the chosen option into a txt file and add ur own password default password is 123456
  enjoy and have fun.
- *************************************************************************************************************************************
- *************************************************************************************************************************************
+ ********************************************************************************************************************************************************
+ ********************************************************************************************************************************************************
  **NOTE- U WILL GET A ALERT MESSAGE U HAVE TO CLICK ON MORE INFO AND CLICK RUN ANYWAY EVEN FOR THE EXE(PASSINFO2.EXE)**
    NOTE- passinfo-v-2.1411 is desigred in the minimized form please do not maximise the window                       
    THANKS TO- 
    THE BATTEAM :BRUTEFORCE.CMD  PROGRAM  
                 LINK FOR THERE YOUTUBE VIDEO REGARDING THIS PROGRAM https://youtu.be/80lYo4Hhmk4
-   TECHNICALuserX(TUX):THE CREATOR OF THIS PROGRAM AND THE LINK FOR HIS CHANNEL https://youtu.be/l1X9leGySBU the nuest version in the bruteforce.rr file
+   TECHNICALuserX(TUX):THE CREATOR OF THIS PROGRAM AND THE LINK FOR HIS CHANNEL https://youtu.be/l1X9leGySBU the nuest version in the bruteforce.rar file
    MY TUTOR.  :youtube. Com.                                                                              
    really appreciate ur help in making of this repository.                                                
- *************************************************************************************************************************************
- *************************************************************************************************************************************
+ ********************************************************************************************************************************************************
+ ********************************************************************************************************************************************************
