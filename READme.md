@@ -13,10 +13,13 @@
  i have an selective menu option in the passinfo-v-2.411 u can choose that if u like convinence.
  Not all the codes are copied 90% of codes are mine and I have borrowed some codes to make it more useful 
  I have modified the BRUTEFORCE.cmd file I have added darkc0de.txt passlist and u can easily access it using teams.exe file in the setup folder thank u.
- Setup.Zip has my passinfo file with an brute force attacker developed by teambat .
+#Setup.Zip
+ has my passinfo file with an brute force attacker developed by teambat .
  U can use the BRUTEFORCE.zip file to use the upgereded file of the bruteforcer .
  passinfo-v2.14 even converts the chosen option into a txt file and add ur own password default password is 123456.
  enjoy and have fun.
+#setupall.zip
+ has all my upgraged codes and is a huge util with some plugins and other stuff from all my other files and is enough for u if want all the files in one place 
  ********************************************************************************************************************************************************
  ********************************************************************************************************************************************************
  **NOTE- U WILL GET A ALERT MESSAGE U HAVE TO CLICK ON MORE INFO AND CLICK RUN ANYWAY EVEN FOR THE EXE(PASSINFO2.EXE)**
