@@ -19,7 +19,10 @@
  passinfo-v2.14 even converts the chosen option into a txt file and add ur own password default password is 123456.
  enjoy and have fun.
 # setupall.zip
- has all my upgraged codes and is a huge util with some plugins and other stuff from all my other files and is enough for u if want all the files in one place 
+ Has all my upgraged codes and is a huge util with some plugins and other stuff from all my other files and is enough for u if want all the files in one place
+# BRUTE-V-3.zip
+ This upgrade adds other uses of the command prompt to the program and the program is costumisable and is very usefull.
+ Here in the future updates i want to add a sampler tool to the collection
  ********************************************************************************************************************************************************
  ********************************************************************************************************************************************************
  **NOTE- U WILL GET A ALERT MESSAGE U HAVE TO CLICK ON MORE INFO AND CLICK RUN ANYWAY EVEN FOR THE EXE(PASSINFO2.EXE)**
