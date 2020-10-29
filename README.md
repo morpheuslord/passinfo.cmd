@@ -26,6 +26,7 @@
 # BRUTE-V-4 
  If u want this tool u can email me that u want the tool 
  **email - morphouslord.1312@gmail.com
+ OR CAN DOWNLOAD FROM MEDIA FIRE :- http://www.mediafire.com/folder/hxbb9ewnf1jte/brute-V-4
 ********************************************************************************************************************************************************
  ********************************************************************************************************************************************************
  **NOTE- U WILL GET A ALERT MESSAGE U HAVE TO CLICK ON MORE INFO AND CLICK RUN ANYWAY EVEN FOR THE EXE(PASSINFO2.EXE)**
