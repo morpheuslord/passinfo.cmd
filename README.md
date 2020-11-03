@@ -28,6 +28,8 @@
  **email - morphouslord.1312@gmail.com
  OR CAN DOWNLOAD FROM MEDIA FIRE :- u can download using the brute-v-4(download).bat / http://www.mediafire.com/file/g2h6vpc40my6hdk/brute-V-4.7z/file
  OR CAN DOWNLOAD CUSTOM ART AND STILL UNDER DEV MODE VERSION :- http://www.mediafire.com/file/ceow157wm6zwlj8/brute-V-4.1.1%2528BETA%2529.7z/file
+# BRUTE-V-5
+  http://www.mediafire.com/file/o0yhx0q78vllpxi/brute-V-5.7z/file
  ********************************************************************************************************************************************************
  ********************************************************************************************************************************************************
  **NOTE- U WILL GET A ALERT MESSAGE U HAVE TO CLICK ON MORE INFO AND CLICK RUN ANYWAY EVEN FOR THE EXE(PASSINFO2.EXE)**
