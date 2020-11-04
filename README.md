@@ -24,16 +24,16 @@
  This upgrade adds other uses of the command prompt to the program and the program is costumisable and is very usefull.
  Here in the future updates i want to add a sampler tool to the collection
 # BRUTE-V-4 
--this tool has a bit more artistic aproch and is a bit faster compared to previous version
- If u want this tool u can email me that u want the tool 
+->this tool has a bit more artistic aproch and is a bit faster compared to previous version
+->If u want this tool u can email me that u want the tool 
  **email - morphouslord.1312@gmail.com
  OR CAN DOWNLOAD FROM MEDIA FIRE :- u can download using the brute-v-4(download).bat / http://www.mediafire.com/file/g2h6vpc40my6hdk/brute-V-4.7z/file
  OR CAN DOWNLOAD CUSTOM ART AND STILL UNDER DEV MODE VERSION :- http://www.mediafire.com/file/ceow157wm6zwlj8/brute-V-4.1.1%2528BETA%2529.7z/file
 # BRUTE-V-5
--this tool has all previous features and has a new tool 
--puTTy tool has been added and through this u can do telnet and ssh connection 
--in future update i am going to add nmap tool to the v-6 of brute
--download link is below
+->this tool has all previous features and has a new tool 
+->puTTy tool has been added and through this u can do telnet and ssh connection 
+->in future update i am going to add nmap tool to the v-6 of brute
+->download link is below
   http://www.mediafire.com/file/o0yhx0q78vllpxi/brute-V-5.7z/file
  ********************************************************************************************************************************************************
  ********************************************************************************************************************************************************
