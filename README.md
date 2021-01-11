@@ -35,6 +35,14 @@
 ->in future update i am going to add nmap tool to the v-6 of brute
 ->download link is below
   http://www.mediafire.com/file/o0yhx0q78vllpxi/brute-V-5.7z/file
+# BRUTE-V-6
+->the new update is available 
+->puTTy tool is still there 
+->i could not add nmap but i have added aircrack-ng tools only aircrack is axxable but u can edit the code and change as u like
+->portable git is added u can type git-cmd/git-bash to access it
+->this is a very small update i am going to replace promethous to a lite and faster tool in the future
+->download link is below
+  https://www.mediafire.com/file/3d5xm98d1lcpwrz/brute-v-6.7z/file
  ********************************************************************************************************************************************************
  ********************************************************************************************************************************************************
  **NOTE- U WILL GET A ALERT MESSAGE U HAVE TO CLICK ON MORE INFO AND CLICK RUN ANYWAY EVEN FOR THE EXE(PASSINFO2.EXE)**
