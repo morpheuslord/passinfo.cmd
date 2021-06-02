@@ -58,8 +58,9 @@
 **portable git is added u can type git-cmd/git-bash to access it
 **this is a very small update i am going to replace promethous to a lite and faster tool in the future
 **download link is below
-  https://www.mediafire.com/file/3d5xm98d1lcpwrz/brute-v-6.7z/file*******************************************************************************************************************************************************
-********************************************************************************************************************************************************
+  https://www.mediafire.com/file/3d5xm98d1lcpwrz/brute-v-6.7z/file
+*******************************************************************************************************************************************************
+*******************************************************************************************************************************************************
 ## BRUTE-V-7 or BRUTE-Framework
 ->the new update is available
 ->all the previous tool is still there
